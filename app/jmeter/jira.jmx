@@ -9294,7 +9294,7 @@ if (response_data.name != vars.get(&quot;app_specific_username&quot;)) {
               <boolProp name="TransactionController.parent">true</boolProp>
             </TransactionController>
             <hashTree>
-              <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="GET /&lt;issue_key&gt;/projects?deploymentUrl=&lt;deploymentUrl&gt;" enabled="true">
+              <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="GET /ZUDI-389/projects?deploymentUrl=http://jira-loadb-avxqjxe8s1d4-2042193621.us-east-1.elb.amazonaws.com" enabled="true">
                 <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
                   <collectionProp name="Arguments.arguments">
                     <elementProp name="path" elementType="HTTPArgument">
