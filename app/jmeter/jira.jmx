@@ -9325,7 +9325,7 @@ if (response_data.name != vars.get(&quot;app_specific_username&quot;)) {
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="" elementType="Header">
                       <stringProp name="Header.name">zeplin-access-token</stringProp>
-                      <stringProp name="Header.value">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6InJlYWQlMjB3cml0ZSUyMGRlbGV0ZSIsImlhdCI6MTY4MTI5MTUxMywiYXVkIjoidXNlcjo1YjlmYjE0YjJhZTFkYjY5YmMyZTg4NDYiLCJpc3MiOiI1ZGMzZDQ2NGI5NGIyMjAwMGQzODM0ZDAiLCJzdWIiOiI1YjlmYjE0YjJhZTFkYjY5YmMyZTg4NDYifQ.ze1FdLKH4s8naxf9ZrvM2dCawlFsO1fVT4WM5uo8ayY</stringProp>
+                      <stringProp name="Header.value">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6InJlYWQlMjB3cml0ZSUyMGRlbGV0ZSIsImlhdCI6MTY4MTM4Mjc4NiwiYXVkIjoidXNlcjo1YjlmYjE0YjJhZTFkYjY5YmMyZTg4NDYiLCJpc3MiOiI1ZGMzZDQ2NGI5NGIyMjAwMGQzODM0ZDAiLCJzdWIiOiI1YjlmYjE0YjJhZTFkYjY5YmMyZTg4NDYifQ.BouI2Pdsz7XvMYskjoR09nfd0DpkNCuB5DmsJLsaSLM</stringProp>
                     </elementProp>
                   </collectionProp>
                 </HeaderManager>
